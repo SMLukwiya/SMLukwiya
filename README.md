@@ -6,7 +6,7 @@ Full stack Developer | Open Source | Future Founder
 
 * 🌍  I'm based in Kampala
 * ✉️  You can contact me at [sundaymorganl@gmail.com](mailto:sundaymorganl@gmail.com)
-* 🚀  I'm currently working on [Simba City](http://https://github.com/simbacity/superapp)
+* 🚀  I'm currently working on [Simba City](https://github.com/simbacity/superapp)
 * 🧠  I'm learning Swift IOS development and Web3
 * 🤝  I'm open to collaborating on Open source and any interesting ideas
 
