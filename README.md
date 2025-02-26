@@ -4,8 +4,7 @@ Hi there, I'm Lukwiya! 👋
 Complexity is typical in the realm of the unknown!
 -------------------------------------------------------------------------------------
 
-I craft robust digital experiences while juggling containers (Docker, not Tupperware) and orchestrating cloud symphonies. Based in the heart of Kampala, I'm on a quest to turn coffee into code and ideas into reality.
-
+Crafting robust digital experiences while juggling technologies (not Tupperware) and orchestrating tech symphonies(not classical).
 * 🌐 Visit my [web abode](https://lukwiya.co/)
 * 📧 Reach out to me at [sundaymorganl@gmail.com](mailto:sundaymorganl@gmail.com)
 * 🚀 Currently engineering the future at [Simba City](https://github.com/simbacity/superapp)
