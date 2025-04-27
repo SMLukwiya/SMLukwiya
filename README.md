@@ -7,9 +7,7 @@ Complexity is typical in the realm of the unknown!
 Crafting robust digital experiences while juggling technologies (not Tupperware) and orchestrating tech symphonies(not classical).
 * 🌐 Visit my [web abode](https://lukwiya.co/)
 * 📧 Reach out to me at [sundaymorganl@gmail.com](mailto:sundaymorganl@gmail.com)
-* 🚀 Currently engineering the future at [Simba City](https://github.com/simbacity/superapp)
 * 🧠 Committed to lifelong learning and clean code
-* 💡 Keen to collaborate on projects that are open-source and impact-making
 
 <a href="https://www.twitter.com/LSundaymorgan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LSundaymorgan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
